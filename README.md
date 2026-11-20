@@ -1,4 +1,4 @@
 ## Trained model
-
-The trained ResNet50 model (`example_Ecad_ResNet50.mat`) is required to run the CDH1 pattern classification.
-Due to its file size, the trained model is distributed separately via Zenodo. The download link and DOI will be added upon public release.
+The trained ResNet50 model (`example_Ecad_ResNet50.mat`) required for CDH1 pattern classification is available from Zenodo:
+https://doi.org/10.5281/zenodo.24387393
+Version: 1.0.0
