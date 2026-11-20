@@ -27,3 +27,8 @@ Download `example_Ecad_ResNet50.mat` from Zenodo and place it in the same direct
 Run:
 `Ecad_GATA6_S100A2_Analysis_public.m`
 The script performs cell-level classification and saves annotated images in the `output` subfolder.
+
+
+## Archived version
+The released version of this repository is archived in Zenodo:
+https://doi.org/10.5281/zenodo.24389982
